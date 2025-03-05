@@ -79,7 +79,7 @@ def logout():
 # Loop through each account
 for index, row in accounts_df.iterrows():
     username = row["username"]
-    password = row["Password"]
+    password = row["password"]
 
     print(f"\n🔄 Logging in with: {username}")
     
