@@ -17,7 +17,8 @@ chromedriver*
 geckodriver*
 user-data/
 Chrome/
-/accounts.csv
+accounts.csv
 .DS_Store
 Thumbs.db
 *.bak
+automation_log.txt
